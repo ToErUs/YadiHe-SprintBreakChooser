@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YadiHe-SpringBreakChooser</string>
+
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>Chinese</item>
+        <item>German</item>
+    </string-array>
+
+</resources>
